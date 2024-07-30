@@ -3,7 +3,3 @@
    
 # Pip requirements
 requirements_file: null
-
-# Build Container
-build:
-  image: latest
