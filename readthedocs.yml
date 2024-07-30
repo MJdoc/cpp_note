@@ -1,0 +1,11 @@
+# Formats in addition to HTML
+
+formats:
+  - none
+   
+# Pip requirements
+requirements_file: null
+
+# Build Container
+build:
+  image: latest
